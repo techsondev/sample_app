@@ -10,6 +10,7 @@ end
 
 group :test do
   gem 'sqlite3', '1.3.5'
+  gem 'factory_girl_rails', '4.1.0'
 end
 
 group :development, :test do
